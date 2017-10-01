@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.37184143066406,
+              40.54093880017256
+            ],
+            [
+              -111.33270263671875,
+              40.52841417575912
+            ],
+            [
+              -111.34918212890625,
+              40.53572049118792
+            ],
+            [
+              -111.37184143066406,
+              40.54093880017256
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Current Creek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.06250762939452,
+          40.340133124073894
+        ]
+      }
+    }
+  ]
+}
